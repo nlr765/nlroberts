@@ -1,0 +1,18 @@
+<html>
+<header>
+<h1><centered>LIFE UNTAMED</centered></h1>
+<img src = centralperkcouch.jpg>
+</header>
+<form>
+<button><centered>SIGN UP</centered></button>
+<button><centered>LOG IN</centered></button>
+</form>
+<main>
+<h2>WELCOME</h2>
+<p>First off I would like to start off with a welcome to LifeUntamed. LifeUntamed is a service for and by design to help anyone with their design needs. We are here to match you with the right designers to help you. Recently divorceed and need help picking out the right funiture so your kids like it, or even if your a high school student looking for the right picture day outfit. Here at LifeUntamed we strive for privacy and safety. But we will get more in to the process later...for now lets move on to signing up.</p>
+<h2>SIGNING UP</h2>
+<p>Signing up to LifeUntamed is specifically designed with the user in mind. It is user friendly and easy to navigate.Signing up has never been easier. Whether you are technologically inclined or know nothing about tech we keep everyone in mind. It is as simple as going to our website where the sign up and log in button will be right below the LifeUntamed title at the top of the page. Just click sign up and we will help walk you through it. Now let us finally get to the good stuff the process of it all...</p>
+<h2>THE PROCESS</h2>
+<p>The process is fairly simple here at LifeUntamed. After you sign up or log in you will be sent to a questionare of sorts asking your general location, and general information about yourself. After you get all that out of the way we will ask more detailed questions. Some examples being what are you looking for, inperson meeting or facetime. After do all the detailed work you will be able to access the list of designers who fit your profile. After finding one you like you will click on that profile showing there design experience and their design journey. Also on their profile will be their prices, whether they will meet in person or facetime and ect. Thats when you would reach out to them and work out a business agreement. All in person meetings will be public. Once you are on your way the app will require you both checking in so we are aware of the locations and then after its all over you will check out which is when we will automatically pull the money owed for services out of your bank card which will already be linked to your account before you can even finish your profile set up.</p>
+</main>
+</html>
